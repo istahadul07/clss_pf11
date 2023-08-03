@@ -1,0 +1,41 @@
+p{
+    background-color: skyblue;
+   
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-top: 40px;
+}
+p{
+    height: 450px;
+    width:450px;
+    border: 4px solid red;
+    margin-left: 30px;
+}
+.div1{
+     padding:10px;
+}
+.YY{
+    padding: 50px 30px 40px 45px;
+}
+.div2 {
+    background-color: beige;
+    max-height: 300px;
+    max-width:300px;
+    border: 2px dotted violet;
+}
+#LM{
+    height: 300px;
+    width: 350px;
+}
+.div3 p{
+    height: 300px;
+    width: 300px;
+     border: 2px solid blue;
+    margin-top:25px;
+    padding:33px;
+    margin-top:25px;
+padding:30px;
+    outline:2px double white;
+    outline-offset: 4px;
+}
